@@ -1,4 +1,4 @@
-<p <p align="center">
+<p align="center">
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdj2hZ9n9Q089DHfoFprrNF23bigqsHmnhsg&s)
 </p>
 <h1 align="center">Hi 👋, I'm William Njoroge</h1>
