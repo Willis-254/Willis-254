@@ -1,6 +1,6 @@
-<p align="center">
+<header align="center">
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdj2hZ9n9Q089DHfoFprrNF23bigqsHmnhsg&s)
-</p>
+</header>
 <h1 align="center">Hi 👋, I'm William Njoroge</h1>
 <h3 align="center">Foccussed, Skilled and Passsionate Software Engineer with 2 years of Experience in Frontend Domain. I have worked for various projects and clients in both the development and analyst fields and help in the contribution of the achievment of the organizations' goal</h3>
 
