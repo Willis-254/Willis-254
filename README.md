@@ -1,4 +1,7 @@
-![alt text](https://github.com/user-attachments/assets/d9344e94-598c-4ed2-bdd7-20e8e7a63548)
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/d9344e94-598c-4ed2-bdd7-20e8e7a63548" 
+         alt="alt text">
+</div>
 <h1 align="center">Hi 👋, I'm William Njoroge</h1>
 <h3 align="center">Foccussed, Skilled and Passsionate Software Engineer with 2 years of Experience in Frontend Domain. I have worked for various projects and clients in both the development and analyst fields and help in the contribution of the achievment of the organizations' goal</h3>
 
